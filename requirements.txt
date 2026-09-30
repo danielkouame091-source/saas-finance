@@ -1,4 +1,4 @@
-streamlit==1.32.0
+streamlit==1.54.0
 sqlalchemy==2.0.25
 pandas==2.2.0
 bcrypt==4.1.2
